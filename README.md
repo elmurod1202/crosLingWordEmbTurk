@@ -29,9 +29,16 @@ Apart from that, we trained our own word embeddings with skip-gram model of Fast
 All pre-trained word embeddings can be downloaded from links below.
 
 Turkish FastText skip-gram 300d word-embeddings - [Download] (https://zenodo.org/record/3666697/files/tr.sg.300.vec.tar.gz?download=1)
+
 Uzbek FastText skip-gram 300d word-embeddings - [Download] (https://zenodo.org/record/3666697/files/uz.sg.300.vec.tar.gz?download=1)
+
 Azeri FastText skip-gram 300d word-embeddings - [Download] (https://zenodo.org/record/3666697/files/az.sg.300.vec.tar.gz?download=1)
+
 Kazakh FastText skip-gram 300d word-embeddings - [Download] (https://zenodo.org/record/3666697/files/kk.sg.300.vec.tar.gz?download=1)
+
 Kyrgyz FastText skip-gram 300d word-embeddings - [Download] (https://zenodo.org/record/3666697/files/ky.sg.300.vec.tar.gz?download=1)
+
+
+
 
 
