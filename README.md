@@ -1,6 +1,6 @@
 # Cross Lingual Word Embeddings for Turkic Languages
 
-This repository consists of language resources reported on a paper wih the same title at LREC2020 paper by Elmurod Kuriyozov, Yerai Doval and Carlos Gomez-Rodriguez (link to the paper will be announced soon).
+This repository consists of language resources reported on a paper wih the same title at LREC2020 paper by Elmurod Kuriyozov, Yerai Doval and Carlos Gomez-Rodriguez (http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.499.pdf).
 
 ## Bilingual dictionaries
 
